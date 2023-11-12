@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Vinyl&display=swap');
+
+@font-face {
+    font-family: Azamat;
+    src: url(fonts/pobeda-regular1.ttf);
+}
+html {
+font-family: Azamat, sans-serif;
+}
+
+span {
+font-weight: 400;
+color: red;
+}
+
+h1 {
+font-weight: 700;
+font-style: italic;
+}
+
+img {
+vertical-align: middle;
+
+
+}
